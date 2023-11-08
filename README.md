@@ -39,10 +39,6 @@ The distance is calculated based on the time it takes for the ultrasonic pulse t
 
 You can adjust the delay in the `loop()` function to control how frequently distance measurements are displayed.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 Feel free to modify and adapt this code for your specific distance sensing applications.
 
 Happy measuring!
